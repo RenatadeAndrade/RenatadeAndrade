@@ -1,6 +1,7 @@
 ## Hello World! Sou Renata de Andrade, estudante de programação e tecnologia!
-### Atualmente estudo Fullstack através do programa Transforma Tec, disponibilizado pela DIO.me e Carrefour.
-### Cursando Análise e Desenvolvimento de Sistemas pela UNINTER.
+💻 Atualmente estudo Fullstack através do programa Transforma Tec, disponibilizado pela DIO.me e Carrefour.
+
+📚 Cursando Análise e Desenvolvimento de Sistemas pela UNINTER.
 <div align="center">
   <a href="https://github.com/RenatadeAndrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenatadeAndrade&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>

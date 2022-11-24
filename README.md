@@ -1,6 +1,4 @@
 ## Hello World! Sou Renata de Andrade, estudante de programação e tecnologia!
-💻 Atualmente estudo Fullstack através do programa Transforma Tec, disponibilizado pela DIO.me e Carrefour.
-
 💻 Sou aluna do programa Oracle Next Education.
 
 📚 Cursando Análise e Desenvolvimento de Sistemas pela UNINTER.
